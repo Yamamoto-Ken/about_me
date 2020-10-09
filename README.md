@@ -1,1 +1,25 @@
-# about_me
+### Hi I'm Ken👋
+
+- Automotive engineer in Robert Bosch GmbH. 
+- Live in Germany. 
+- I like music. 
+- 📫 How to reach me: Twitter or Email
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: 
+  - Can speak 6 languages (English, Hindi, Bengali, Tamil, Telugu, German).
+  - Love photography, and a collector of cameras. 
+
+<!--
+**tikurahul/tikurahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
