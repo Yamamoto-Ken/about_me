@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **[Twitter](https://twitter.com/kennyatman) or email**
 
-- 📄 Know about my experiences [https://github.com/Yamamoto-Ken/about_me_cv](https://github.com/Yamamoto-Ken/about_me_cv)
+- 📄 Know about my experiences [about_me_cv](https://github.com/Yamamoto-Ken/about_me_cv)
 
 - ⚡ Fun fact **I am Yoga instructor**
 
