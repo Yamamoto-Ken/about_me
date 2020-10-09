@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **people who want to know the situation of autonomous driving in Europe**
 
-- 📫 How to reach me **https://twitter.com/kennyatman**
+- 📫 How to reach me **[Twitter](https://twitter.com/kennyatman) or email**
 
 - 📄 Know about my experiences [https://github.com/Yamamoto-Ken/about_me_cv](https://github.com/Yamamoto-Ken/about_me_cv)
 
