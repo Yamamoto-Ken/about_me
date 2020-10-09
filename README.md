@@ -9,11 +9,11 @@
 
 - 👯 I’m looking to collaborate on **AI startup**
 
-- 🤝 I’m looking for help with **people who want to know the situation of autonomous driving in Europe**
+- 😄 I like **Music, Sake and Cultural Anthropology**
 
 - 📫 How to reach me **[Twitter](https://twitter.com/kennyatman) or email**
 
-- 📄 Know about my experiences [about_me_cv](https://github.com/Yamamoto-Ken/about_me_cv)
+- 📄 Know about my experiences **[about_me_cv](https://github.com/Yamamoto-Ken/about_me_cv)**
 
 - ⚡ Fun fact **I am Yoga instructor**
 
