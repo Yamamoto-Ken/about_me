@@ -1,10 +1,10 @@
 ### Hi I'm Ken👋
 
-- Automotive engineer in Robert Bosch GmbH. 
+- Japanese.
 - Live in Germany. 
-- I like music. 
-- 📫 How to reach me: Twitter or Email
-- 😄 Pronouns: He / Him
+- Automotive engineer in Robert Bosch GmbH. 
+- Learning AI to implement AI for the business/industry. 
+- How to reach me: [Twitter](https://twitter.com/kennyatman) or Email
 - ⚡ Fun fact: 
   - Can speak 6 languages (English, Hindi, Bengali, Tamil, Telugu, German).
   - Love photography, and a collector of cameras. 
