@@ -1,23 +1,22 @@
-### Hi I'm Ken👋
+<h1 align="center">Hi 👋, I'm Ken</h1>
+<h3 align="center">A open-minded automotive engineer from Japan</h3>
 
-- Japanese.
-- Live in Germany. 
-- Automotive engineer in Robert Bosch GmbH. 
-- Learning AI to implement AI for the business/industry. 
-- How to reach me: [Twitter](https://twitter.com/kennyatman) or Email
-- ⚡ Fun fact: 
-  - Can speak 6 languages (English, Hindi, Bengali, Tamil, Telugu, German).
-  - Love photography, and a collector of cameras. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yamamoto-ken&label=Profile%20views&color=0e75b6&style=flat" alt="yamamoto-ken" /> </p>
 
-<!--
-**tikurahul/tikurahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Engine Control Unit(ECU) Calibration and Development**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **AI, machine learning and deep learning**
 
-- Nationality
-- Where living
-- Occupation and Company
-- Motivated and interested
-- How to reach me
-- Fun fact...
--->
+- 👯 I’m looking to collaborate on **AI startup**
+
+- 🤝 I’m looking for help with **people who want to know the situation of autonomous driving in Europe**
+
+- 📫 How to reach me **https://twitter.com/kennyatman**
+
+- 📄 Know about my experiences [https://github.com/Yamamoto-Ken/about_me_cv](https://github.com/Yamamoto-Ken/about_me_cv)
+
+- ⚡ Fun fact **I am Yoga instructor**
+
+
+<h3 align="left">Connect with me:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamamoto-ken&show_icons=true" alt="yamamoto-ken" /></p>
