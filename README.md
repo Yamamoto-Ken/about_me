@@ -15,7 +15,10 @@
 
 - 📄 Know about my experiences **[about_me_cv](https://github.com/Yamamoto-Ken/about_me_cv)**
 
-- ⚡ Fun fact **I am Yoga instructor**
+- ⚡ Fun fact
+  - **I am Yoga instructor**
+  - **I am [Podcaster](https://podcasts.apple.com/de/podcast/stay-hungry-fm/id1506768195?l=en)**
+  - **I am [DJ](https://www.mixcloud.com/kennyatman/)**
 
 
 <h3 align="left">Connect with me:</h3>
