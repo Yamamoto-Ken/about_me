@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI, machine learning and deep learning**
 
-- 👯 I’m **community manager of [JDLA](https://www.jdla.org/en/en-about/) in Europe**
+- 👯 I’m **community manager of [JDLA](https://www.jdla.org/en/en-about/)(Japan Deep Learning Association) in Europe**
 
 - 😄 I like **Music, Sake and Cultural Anthropology**
 
