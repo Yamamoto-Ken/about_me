@@ -1,14 +1,16 @@
 <div align="center">
-<img src="./Ken_car_RSA.jpg" alt="写真" title="写真" width=50%>
+  <img src="./Ken_car_RSA.jpg" alt="写真" title="写真" width=50%>
 </div>
+
 <h1 align="center">Hi 👋, I'm Ken</h1>
-<h3 align="center">Open-minded automotive engineer from Japan</h3>
+
+<h3 align="center">Open-minded automotive R&D engineer from Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamamoto-ken&label=Profile%20views&color=0e75b6&style=flat" alt="yamamoto-ken" /> </p>
 
-- 🔭 I’m currently working on **Engine Control Unit(ECU) Calibration and Development**
+- 🔭 I’m currently working in **Robert Bosch GmbH** in Germany
 
-- 🌱 I’m currently learning **AI, machine learning and deep learning**
+- 🌱 I’m currently learning **AI, machine learning, deep learning and data science**
 
 - 👯 I’m **community manager of [JDLA](https://www.jdla.org/en/en-about/)(Japan Deep Learning Association) in Europe**
 
@@ -16,7 +18,7 @@
 
 - 📫 How to reach me **[Twitter](https://twitter.com/kennyatman) or email**
 
-- 📄 Know about my experiences **[about_me_cv](https://github.com/Yamamoto-Ken/about_me_cv)**
+- 📄 Know about my experiences **[about_me_cv](https://github.com/Yamamoto-Ken/about_me_cv)** (pls contact me if you wanna see)
 
 - ⚡ Fun fact
   - **I am Yoga instructor**
