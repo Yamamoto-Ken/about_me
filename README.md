@@ -2,7 +2,7 @@
   <img src="./Ken_car_RSA.jpg" alt="写真" title="写真" width=50%>
 </div>
 
-<h1 align="center">Hi 👋, I'm Ken</h1>
+<h1 align="center">Hi 👋 I'm Ken</h1>
 
 <h3 align="center">Open-minded automotive R&D engineer from Japan</h3>
 
