@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamamoto-ken&label=Profile%20views&color=0e75b6&style=flat" alt="yamamoto-ken" /> </p>
 
-- 🔭 I’m currently working in **Robert Bosch GmbH** in Germany
+- 🔭 I’m currently working in **[Robert Bosch GmbH](https://www.bosch.de)** in Germany
 
 - 🌱 I’m currently learning **AI, machine learning, deep learning and data science**
 
