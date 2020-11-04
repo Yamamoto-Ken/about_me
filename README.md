@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **AI, machine learning, deep learning and data science**
 
-- 👯 I’m **community manager of [CDLE](https://www.jdla.org/en/en-about/)(Community of Deep Learning Evangelists) in Europe**
+- 👯 I’m **community manager of CDLE (Community of Deep Learning Evangelists by [JDLA](https://www.jdla.org/en/en-about/)) in Europe**
 
 - 😄 I like **Music, Sake and Cultural Anthropology**
 
