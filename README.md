@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact
   - **I am Yoga instructor**
-  - **I am [Podcaster](https://podcasts.apple.com/de/podcast/stay-hungry-fm/id1506768195?l=en)**
+  - **I am [Podcaster](https://podcasts.apple.com/jp/podcast/cdle-voice-aiを学べるラジオ/id1538017461?l=en)**
   - **I am [DJ](https://www.mixcloud.com/kennyatman/)**
 
 
