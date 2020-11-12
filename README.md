@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact
   - **I am Yoga instructor**
-  - **I am [Podcaster](https://podcasts.apple.com/jp/podcast/cdle-voice-aiを学べるラジオ/id1538017461?l=en)**
+  - **I am [Podcaster](https://podcasts.apple.com/jp/podcast/cdle-voice-ai%E3%82%92%E5%AD%A6%E3%81%B9%E3%82%8B%E3%83%A9%E3%82%B8%E3%82%AA/id1538017461)**
   - **I am [DJ](https://www.mixcloud.com/kennyatman/)**
 
 
