@@ -12,7 +12,7 @@
 
 - ✍️ I’m currently learning **data science** for data-driven world
 
-- 🤖 I’m a member of **[MLT(Machine Learning Tokyo)](https://machinelearningtokyo.com/mlt/)**
+- 🤖 I’m a member of **[MLT (Machine Learning Tokyo)](https://machinelearningtokyo.com/mlt/)**
 
 - 👯 I’m **community manager of [CDLE](https://www.cdle.jp) (Community of Deep Learning Evangelists by [JDLA](https://www.jdla.org/en/en-about/)) in Europe**
 
