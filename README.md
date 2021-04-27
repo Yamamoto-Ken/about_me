@@ -4,11 +4,11 @@
 
 <h1 align="center">Hi 👋 I'm Ken</h1>
 
-<h3 align="center">Open-minded automotive R&D engineer from Japan</h3>
+<h3 align="center">Open-minded automotive SW application engineer from Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yamamoto-ken&label=Profile%20views&color=0e75b6&style=flat" alt="yamamoto-ken" /> </p>
 
-- 🔭 I’m currently working in **[Robert Bosch GmbH](https://www.bosch.de)** as SW application engineer in Germany
+- 🔭 I’m currently working in **[Robert Bosch GmbH](https://www.bosch.de)** in Germany
 
 - 🌱 I’m currently learning **data science for data-driven world**
 
