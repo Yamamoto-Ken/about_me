@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working in **[Robert Bosch GmbH](https://www.bosch.de)** in Germany
 
-- 🌱 I’m currently learning **data science for data-driven world**
+- 🌱 I’m currently learning **data science** for data-driven world
 
 - 👯 I’m **community manager of CDLE (Community of Deep Learning Evangelists by [JDLA](https://www.jdla.org/en/en-about/)) in Europe**
 
