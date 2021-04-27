@@ -18,9 +18,9 @@
 
 - 😄 I like **Music, Sake and Cultural Anthropology**
 
-- 📫 How to reach me **[Twitter](https://twitter.com/kennyatman) or email**
+- 📫 How to reach me -> **[Twitter](https://twitter.com/kennyatman)**
 
-- 📄 Know about my experiences **[profile_cv](https://github.com/Yamamoto-Ken/profile_cv)** (pls contact me if you wanna see)
+- 📄 Know about my experiences: **[profile_cv](https://github.com/Yamamoto-Ken/profile_cv)** (pls contact me if you wanna see)
 
 - ⚡ Fun fact
   - **I am Yoga instructor**
