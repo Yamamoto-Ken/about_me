@@ -14,7 +14,7 @@
 
 - 👯 I’m **community manager of [CDLE](https://www.cdle.jp) (Community of Deep Learning Evangelists by [JDLA](https://www.jdla.org/en/en-about/)) in Europe**
 
-- 🎙 I’m **branding director and host of AI for business Podcast [CDLE VOICE](https://podcasts.apple.com/jp/podcast/cdle-voice-ai%E3%82%92%E5%AD%A6%E3%81%B9%E3%82%8B%E3%83%A9%E3%82%B8%E3%82%AA/id1538017461) in CDLE**
+- 🎙 I’m **branding director and host of AI for business Podcast [CDLE VOICE](https://podcasts.apple.com/jp/podcast/cdle-voice-ai%E3%82%92%E5%AD%A6%E3%81%B9%E3%82%8B%E3%83%A9%E3%82%B8%E3%82%AA/id1538017461)**
 
 - 😄 I like **Music, Sake and Cultural Anthropology**
 
