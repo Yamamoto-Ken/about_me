@@ -18,7 +18,7 @@
 
 - 🌱 I’m a **project manager of AI startup creation and development in [CDLE](https://www.cdle.jp)**
 
-- 🎙 I’m a **branding director and host of [CDLE VOICE](https://podcasts.apple.com/jp/podcast/cdle-voice-ai%E3%82%92%E5%AD%A6%E3%81%B9%E3%82%8B%E3%83%A9%E3%82%B8%E3%82%AA/id1538017461) "AI for Business" Podcast**
+- 🎙 I’m a **branding director of [CDLE VOICE](https://podcasts.apple.com/jp/podcast/cdle-voice-ai%E3%82%92%E5%AD%A6%E3%81%B9%E3%82%8B%E3%83%A9%E3%82%B8%E3%82%AA/id1538017461) "AI for Business" Podcast**
 
 - 😄 I like **Music, Sake and Cultural Anthropology**
 
